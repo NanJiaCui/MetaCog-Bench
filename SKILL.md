@@ -3,8 +3,8 @@ name: metacog
 version: 1.0.0
 display_name: MetaCog - 社交元认知增强器
 description: 为对话注入三层元认知能力：意图归因、自我监视与意向性锚定，提升回复的社交安全性与情感温度。
-author: MetaCog Research
-homepage: https://github.com/your-org/metacog
+author: CuiYuanFei 南迦
+homepage: https://github.com/NanJiaCui/MetaCog-Bench.git
 license: Apache-2.0
 tags:
   - social-intelligence
